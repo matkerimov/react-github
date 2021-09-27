@@ -1,0 +1,9 @@
+.dashboard{
+    background: url("https://i.ibb.co/SVbZ6Hf/459285.jpg") no-repeat center/cover ;
+    height: 100vh;
+
+}
+.dashboard-card{
+    background-color: rgba(226, 232, 240, 0.49);
+    /*padding: 6rem;*/
+}
